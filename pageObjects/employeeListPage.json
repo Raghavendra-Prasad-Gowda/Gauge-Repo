@@ -1,0 +1,7 @@
+{
+    "employeeListTab":"//a[@id='menu_pim_viewEmployeeList']",
+    "employeeNameSearchTextbox":"//input[@id='empsearch_employee_name_empName']",
+    "searchButton":"//input[@id='searchBtn']",
+    "firstNameValueInFirstResult":"//table[@id='resultTable']/tbody/tr[1]/td[3]"
+
+}

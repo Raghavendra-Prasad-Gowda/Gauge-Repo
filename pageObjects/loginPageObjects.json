@@ -1,0 +1,7 @@
+{
+
+    "usernameTextbox":"//input[@name='txtUsername']",
+    "passwordTextbox":"//input[@name='txtPassword']",
+    "loginButton":"//input[@name='Submit']",
+    "invalidCredentialsMessageSpan":"//span[@id='spanMessage']"
+}

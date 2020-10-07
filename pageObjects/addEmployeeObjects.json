@@ -1,0 +1,13 @@
+{
+    "addEmployeeTab":"//a[@id='menu_pim_addEmployee']",
+    "firstNameTextbox":"//input[@id='firstName']",
+    "middleNameTextbox":"//input[@id='middleName']",
+    "lastNameTextbox":"//input[@id='lastName']",
+    "createLoginCheckbox":"//input[@id='chkLogin']",
+    "userNameTextbox":"//input[@id='user_name']",
+    "passwordTextbox":"//input[@id='user_password']",
+    "confirmPasswordTextbox":"//input[@id='re_password']",
+    "dropdownId":"status",
+    "saveButton":"Save"
+
+}
