@@ -1,5 +1,6 @@
 {
     "usernameBanner":"//a[@id='welcome']",
     "logoutButton":"Logout",
-    "pimModule":"//a[@id='menu_pim_viewPimModule']"
+    "pimModule":"//a[@id='menu_pim_viewPimModule']",
+    "leaveModule":"a[id='menu_leave_viewLeaveModule'] b"
 }

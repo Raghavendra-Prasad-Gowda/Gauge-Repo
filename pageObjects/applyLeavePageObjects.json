@@ -1,0 +1,8 @@
+{
+    "applyTab":"#menu_leave_applyLeave",
+    "leaveType":"applyleave_txtLeaveType",
+    "fromDate":"#applyleave_txtFromDate",
+    "toDate":"#applyleave_txtToDate",
+    "commentsTextBox":"#applyleave_txtComment",
+    "applyButton":"#applyBtn"
+}

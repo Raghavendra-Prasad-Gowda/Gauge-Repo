@@ -6,5 +6,8 @@
   },
   "dependencies": {
     "taiko": "latest"
+  },
+  "devDependencies": {
+    "taiko-screencast": "0.0.1"
   }
 }
